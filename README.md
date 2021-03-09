@@ -15,7 +15,7 @@ also git prompt doesn't work for some reason idk
 - ```cd ~/.oh-my-zsh/themes```
 - ```wget https://raw.githubusercontent.com/wshloic/lenny-ohmyzsh/master/lenny.zsh-theme```
 - ```vim ~/.zshrc```
-- change ZSH_THEME="robbyrussell" to ZSH_THEME="lenny"
+- set ZSH_THEME to "lenny"
 - save and quit
 - ```source ~/.zshrc```
 - you're done
