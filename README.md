@@ -12,10 +12,10 @@ also git prompt doesn't work for some reason idk
 
 ## How 2 install
 
-- cd ~/.oh-my-zsh/themes
-- wget https://raw.githubusercontent.com/wshloic/lenny-ohmyzsh/master/lenny.zsh-theme
-- vim ~/.zshrc
+- ```cd ~/.oh-my-zsh/themes```
+- ```wget https://raw.githubusercontent.com/wshloic/lenny-ohmyzsh/master/lenny.zsh-theme```
+- ```vim ~/.zshrc```
 - change ZSH_THEME="robbyrussell" to ZSH_THEME="lenny"
 - save and quit
-- source ~/.zshrc
+- ```source ~/.zshrc```
 - you're done
